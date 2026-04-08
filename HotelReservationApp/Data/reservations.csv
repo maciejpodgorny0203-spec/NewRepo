@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nul not found
 # siema
 # siema
@@ -9,3 +10,8 @@ nul not found
 # siema
 # siema
 # siema
+=======
+Id,RoomId,DateFrom,DateTo,ReservedBy,NumberOfGuests
+1,1,2025-06-10,2025-06-12,Jan Kowalski,2
+2,2,2025-06-15,2025-06-18,Anna Nowak,3
+>>>>>>> 7878c61 (example data)
