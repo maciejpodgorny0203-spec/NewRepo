@@ -168,7 +168,4 @@ void GenerateReport()
     var reportPath = reportService.GenerateRoomReport(roomId, dateFrom, dateTo);
     Console.WriteLine($"Raport zapisano do pliku: {reportPath}");
 }
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-siema siema siema
    
